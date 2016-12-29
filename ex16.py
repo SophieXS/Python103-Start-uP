@@ -16,7 +16,7 @@ target.truncate()
 
 print "Now I'm going to ask you for three lines."
 
-line1 = raw_input("Line 1: ")
+Line1 = raw_input("Line 1: ")
 Line2 = raw_input("Line 2: ")
 Line3 = raw_input("Line 3: ")
 
